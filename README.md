@@ -1,9 +1,11 @@
-![alt text](images/skills.jpg)
+![alt text](images/skill-set.jpg)
 ### Hello World 👋 This is Mahmud 
 I am full stack developer and build stuff on the web with Python, PHP and JavaScript. Currently working as a Salesforce ☁️ developer and a newbie Rustaceans
 
 ---
 ### 📝 Recent Blogpots:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!--
