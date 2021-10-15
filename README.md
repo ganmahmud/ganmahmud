@@ -5,6 +5,7 @@ I am a full stack developer who builds stuff on the web with Python, PHP and Jav
 ---
 ### 📝 Recent Blogposts:
 <!-- BLOG-POST-LIST:START -->
+- [A "Brave" way to brows blocked content from terminal](https://dev.to/ganmahmud/a-brave-way-to-brows-blocked-content-from-terminal-4k78)
 <!-- BLOG-POST-LIST:END -->
 
 
