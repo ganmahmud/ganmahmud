@@ -1,4 +1,10 @@
-### Hi there 👋
+![alt text](images/skills.jpg)
+### Hello World 👋 This is Mahmud 
+I am full stack developer and build stuff on the web with Python, PHP and JavaScript. Currently working as a Salesforce ☁️ developer and a newbie Rustaceans
+
+---
+### 📝 Recent Blogpots:
+
 
 <!--
 **ganmahmud/ganmahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
