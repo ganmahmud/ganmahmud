@@ -1,9 +1,9 @@
 ![alt text](images/skill-set-compressed.jpg)
 ### Hello World 👋 This is Mahmud 
-I am full stack developer and build stuff on the web with Python, PHP and JavaScript. Currently working as a Salesforce ☁️ developer and a newbie Rustaceans
+I am a full stack developer who builds stuff on the web with Python, PHP and JavaScript. Currently working as a Salesforce ☁️ developer and a newbie Rustacean
 
 ---
-### 📝 Recent Blogpots:
+### 📝 Recent Blogposts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
