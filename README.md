@@ -6,7 +6,6 @@ I am a full stack developer who builds stuff on the web with Python, PHP and Jav
 ### 📝 Recent Blogposts:
 <!-- BLOG-POST-LIST:START -->
 - [Take your Windows PowerShell to the next level by Starship](https://dev.to/ganmahmud/take-your-windows-powershell-to-the-next-level-by-starship-2gb2)
-- [Take your Windows PowerShell to the next level by Starship](https://dev.to/ganmahmud/take-your-widows-powershell-to-the-next-level-by-starship-1a4d)
 - [A "Brave" way to brows blocked content from terminal](https://dev.to/ganmahmud/a-brave-way-to-brows-blocked-content-from-terminal-4k78)
 <!-- BLOG-POST-LIST:END -->
 
