@@ -1,6 +1,6 @@
 ![alt text](images/skill-set-compressed.jpg)
 ### Hello World 👋 This is Mahmud 
-I am a full stack developer who builds stuff on the web with Python, PHP and JavaScript. Currently working as a Salesforce ☁️ developer and looking to collaborate in Rust
+I am a full stack developer who builds stuff on the web with TypeScript, Python, PHP and JavaScript. Currently developing micro-services using NodeJS, TypeScript, MongoDB, Postgres, docker, AWS CodeArtifact, AWS SNS, AWS SQS and Redis.
 
 ---
 ### 📝 Recent Blogposts:
