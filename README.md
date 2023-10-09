@@ -1,4 +1,4 @@
-![alt text](images/skill-set-compressed.jpg)
+<!-- ![alt text](images/skill-set-compressed.jpg) -->
 ### Hello World 👋 This is Mahmud 
 I am a full stack developer who builds stuff on the web with TypeScript, Python, PHP and JavaScript. Currently developing micro-services using NodeJS, TypeScript, MongoDB, Postgres, docker, AWS CodeArtifact, AWS SNS, AWS SQS and Redis.
 
