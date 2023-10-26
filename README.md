@@ -5,6 +5,7 @@ I am a full stack developer who builds stuff on the web with TypeScript, Python,
 ---
 ### 📝 Recent Blogposts:
 <!-- BLOG-POST-LIST:START -->
+- [Priority Queue: Creating order from chaos](https://dev.to/ganmahmud/priority-queue-creating-order-from-chaos-d87)
 - [Deploy python fastapi project from github to vercel (without vercel cli)](https://dev.to/ganmahmud/deploy-python-fastapi-project-from-github-to-vercel-without-vercel-cli-3e9f)
 - [How ChatGPT could possibly disrupt google search services and change SEO forever](https://dev.to/ganmahmud/how-chatgpt-could-possibly-disrupt-google-search-services-and-change-seo-forever-4nd9)
 - [Take your Windows PowerShell to the next level by Starship](https://dev.to/ganmahmud/take-your-windows-powershell-to-the-next-level-by-starship-2gb2)
